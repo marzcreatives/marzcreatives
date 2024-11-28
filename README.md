@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marzcreatives
-- 👀 I’m interested in becoming a full-stack developer
-- 🌱 I’m currently learning python and javascript
-- 💞️ I’m open to collaborate on anything
+- 👀 I’m a UI developer
+- 🌱 Proficient in TypeScript, React, and Express.js
+- 💞️ Open to collaborate
 - 📫 To reach me visit www.marzcreatives.com
 
 <!---
